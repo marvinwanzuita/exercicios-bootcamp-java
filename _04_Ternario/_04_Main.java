@@ -1,6 +1,4 @@
-package GamaBootcamp.Exercicios._04_Ex;
-
-import GamaBootcamp.Exercicios._01_Ex._01_Salario;
+package GamaBootcamp.Exercicios._04_Ternario;
 
 import java.util.Scanner;
 

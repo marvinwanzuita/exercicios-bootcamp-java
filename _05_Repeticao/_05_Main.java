@@ -1,6 +1,4 @@
-package GamaBootcamp.Exercicios._05_Ex;
-
-import java.util.Scanner;
+package GamaBootcamp.Exercicios._05_Repeticao;
 
 public class _05_Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package GamaBootcamp.Exercicios._03_Ex;
+package GamaBootcamp.Exercicios._03_Switch;
 
 import java.util.Scanner;
 

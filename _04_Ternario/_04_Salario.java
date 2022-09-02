@@ -1,4 +1,4 @@
-package GamaBootcamp.Exercicios._04_Ex;
+package GamaBootcamp.Exercicios._04_Ternario;
 
 public class _04_Salario {
 

@@ -1,4 +1,4 @@
-package GamaBootcamp.Exercicios._02_Ex;
+package GamaBootcamp.Exercicios._02_Condicional;
 
 public class _02_PeriodoDia {
 

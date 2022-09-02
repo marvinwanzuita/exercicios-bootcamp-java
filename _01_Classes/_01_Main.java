@@ -1,4 +1,4 @@
-package GamaBootcamp.Exercicios._01_Ex;
+package GamaBootcamp.Exercicios._01_Classes;
 
 import java.util.Scanner;
 

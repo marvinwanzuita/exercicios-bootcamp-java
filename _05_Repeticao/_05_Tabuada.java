@@ -1,4 +1,4 @@
-package GamaBootcamp.Exercicios._05_Ex;
+package GamaBootcamp.Exercicios._05_Repeticao;
 
 public class _05_Tabuada {
 

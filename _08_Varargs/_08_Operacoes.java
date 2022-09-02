@@ -1,4 +1,4 @@
-package GamaBootcamp.Exercicios._08_Ex;
+package GamaBootcamp.Exercicios._08_Varargs;
 
 public enum _08_Operacoes {
 

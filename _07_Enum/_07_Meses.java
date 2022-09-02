@@ -1,4 +1,4 @@
-package GamaBootcamp.Exercicios._07_Ex;
+package GamaBootcamp.Exercicios._07_Enum;
 
 public enum _07_Meses {
 

@@ -1,4 +1,4 @@
-package GamaBootcamp.Exercicios._06_Ex;
+package GamaBootcamp.Exercicios._06_Array;
 
 public class _06_Main {
 
